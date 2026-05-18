@@ -1,4 +1,4 @@
-This repository contains data and code for analyses in "Body size and cranial shape differentiation in urban and rural house mice (_Mus musculus domesticus_)"
+This repository contains data and code for analyses in:
 
 Citation: Kupchella, S. C., Kort, A. E., & Phifer-Rixey, M. (2026). Body size and cranial shape differentiation in urban and rural house mice (<em>Mus musculus domesticus</em>). bioRxiv, 2026.05.16.725634. https://doi.org/10.64898/2026.05.16.725634
 
