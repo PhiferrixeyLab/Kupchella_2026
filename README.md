@@ -4,7 +4,7 @@ Citation: Kupchella, S. C., Kort, A. E., & Phifer-Rixey, M. (2026). Body size an
 
 ## DATA
 ### Stables_Data.xlsx
-This file contains all of the supplementary tables listed in the manuscript. Data is provided in tab S1. All columns are labeled inside the file itself, with additional descriptions provided at the bottom of tab S1 where necessary. 
+This file contains all of the supplementary tables listed in the manuscript. Data are provided in tab S1. All columns are labeled inside the file itself, with additional descriptions provided at the bottom of tab S1 where necessary. 
 
 ## SCRIPTS
 ### Analysis_Rscript.Rmd
