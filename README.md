@@ -18,7 +18,7 @@ This script simply creates a 2D plane that passes throught the defined MSP for v
 
 ## MESHES
 ### MHB_096_FNL_MESH.zip
-This .zip file contains a cleaned mesh of the reference specimen (MHB096). This the unzipped .ply file is read into `Analysis_Rscript.Rmd`
+This .zip file contains a cleaned mesh of the reference specimen (MHB096). The unzipped .ply file is read into `Analysis_Rscript.Rmd`
 
 ---
 Necessary Software
