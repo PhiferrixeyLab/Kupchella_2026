@@ -24,3 +24,4 @@ This .zip file contains a cleaned mesh of the reference specimen (MHB096). The u
 Necessary Software
 1. R (v4.5.1 (2025-06-13 or above)
 2. RStudio (v2025.09.1+401 or above)
+3. 3D Slicer (v5.8.0 or above)
