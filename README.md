@@ -14,7 +14,7 @@ This script conducts all analyses and generates figures associated with the manu
 This script is used to define the midsagittal plane and mirror right-side landmarks across the plane in _3D Slicer_. Script is executed in the _3D Slicer_ python terminal.
 
 ### Midsagittal_Plane_Visualization.py
-This script simply creates a 2D plane that passes throught the defined MSP for visualization. Script is executed in the _3D Slicer_ python terminal. 
+This script simply creates a 2D plane that passes through the defined MSP for visualization. Script is executed in the _3D Slicer_ python terminal. 
 
 ## MESHES
 ### MHB_096_FNL_MESH.zip
