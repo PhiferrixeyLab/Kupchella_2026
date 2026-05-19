@@ -2,7 +2,7 @@ This repository contains data and code for analyses in:
 
 Citation: Kupchella, S. C., Kort, A. E., & Phifer-Rixey, M. (2026). Body size and cranial shape differentiation in urban and rural house mice (<em>Mus musculus domesticus</em>). bioRxiv, 2026.05.16.725634. https://doi.org/10.64898/2026.05.16.725634
 
-ZENODO: (https://doi.org/10.5281/zenodo.20291545)
+ZENODO DOI: 10.5281/zenodo.20291546 (https://doi.org/10.5281/zenodo.20291545)
 
 ## DATA
 ### Stables_Data.xlsx
