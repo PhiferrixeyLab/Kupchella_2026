@@ -39,7 +39,7 @@ cat("Linear n =", nrow(linear), "\n")
 ## Load in the necessary packages
 
 ```{r}
-R.Version() # R version 4.5.1 (2025-06-13)
+R.Version() ## R version 4.5.1 (2025-06-13)
 RStudio.Version() # 2025.9.1.401
 
 packages <- c("ggplot2", "geomorph", "Morpho", "ggpattern", "car", "cowplot", 
@@ -48,6 +48,7 @@ packages <- c("ggplot2", "geomorph", "Morpho", "ggpattern", "car", "cowplot",
 
 installed <- packages %in% rownames(installed.packages())
 if (any(!installed)) install.packages(packages[!installed])
+
 
 library(ggplot2)
 library(geomorph)
