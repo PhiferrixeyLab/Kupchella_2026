@@ -1,7 +1,8 @@
 ---
 title: "Body size and cranial shape differentiation in urban and rural house mice (Mus musculus domesticus)" 
 output: html_notebook
-#Biorxiv doi: https://doi.org/10.64898/2026.05.16.725634
+
+# Kupchella, S. C., Kort, A. E., & Phifer-Rixey, M. (2026). Body size and cranial shape differentiation in urban and rural house mice (Mus musculus domesticus). Integrative Organismal Biology, obag057. https://doi.org/10.1093/iob/obag057
 ---
 
 ## Read Data
